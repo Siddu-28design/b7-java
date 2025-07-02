@@ -1,6 +1,6 @@
 pipeline{
 		agent {
-  label 'win'
+  label 'Windows_Slave_Siddu'
 }
 
 		stages{
